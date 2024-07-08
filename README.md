@@ -1,1 +1,1 @@
-practice Torch here
+Refer this for future projects on neural network 
